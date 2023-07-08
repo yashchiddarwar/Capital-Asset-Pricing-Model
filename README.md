@@ -39,7 +39,7 @@ git clone https://github.com/your-username/Capital-Asset-Pricing-Model.git
 To run the CAPM project, navigate to the project directory and execute the following command:
 
 ```bash
-python CAPM_Return.py
+streamlit run CAPM_Return.py
 ```
 
 This will start the application and provide you with a user-friendly interface to input the necessary parameters and visualize the results using Plotly.
